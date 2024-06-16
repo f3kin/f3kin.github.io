@@ -1,2 +1,4 @@
-title: f3kin's homepage
-theme: jekyll-theme-minimal
+title: My Portfolio Page
+description: A simple portfolio page
+theme: jekyll-theme-minima
+markdown: kramdown
